@@ -33,7 +33,7 @@ lebogangRatsoana.displayDetails();
 ## Get in touch
 - Twitter: https://twitter.com/professorLebza
 - Facebook: https://www.facebook.com/profLebza/
-- Cell: 0817244506
+- WhatsApp: [WhatsApp me](https://wa.me/27817244506)
 - Email: lebogang@omnicor.co.za
 
 <!---
