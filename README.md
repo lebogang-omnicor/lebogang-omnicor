@@ -1,6 +1,6 @@
-## Hi, I'm Lebogang Ratsoana
+## Why, hello there.
 
-I am an experienced full stack Software Engineer @ Omnicor. I have a passion for designing and developing bespoke software solutions that create a positive impact wherever used. 
+My name is Lebogang Ratsoana. I am an experienced full stack Software Engineer @ Omnicor. I have a passion for designing and developing bespoke software solutions that create a positive impact wherever used. 
 
 ```Javascript
 
