@@ -19,11 +19,10 @@ class Person {
 }
 
 const mySkills = {
-  code: ['Javascript', 'Typescript', 'HTML5', 'CSS3', 'PHP', 'ExpressJS'],
-  tools: ['ReactJS', 'ReactNative', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Symfony Framework', 'RabbitMQ', 'Git'],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: ['Javascript', 'Typescript', 'HTML5', 'CSS3', 'PHP'],
+  tools: ['ReactJS', 'ReactNative', 'ExpressJS', 'Redux', 'Node', 'Storybook', 'Styled-Components', 'Symfony Framework', 'RabbitMQ', 'Git'],
   devops: ['Docker', 'Linux', 'AzureDevOPS'],
-  databases: ['MySQL', 'MSSQL'],
+  databases: ['MySQL', 'MSSQL', 'Couchbase'],
   misc: ['SCRUM', 'SOLID Principles', 'Design Patterns', 'Clean Code']
 }
 
